@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: OnStar2MQTT Home Assistant Add-On Repository
+name: OnStar2MQTT Home Assistant Add-On Repository (Maz Version)
 url: 'https://github.com/themaz/homeassistant-addons-onstar2mqtt'
 maintainer: Maz
