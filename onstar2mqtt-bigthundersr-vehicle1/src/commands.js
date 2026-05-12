@@ -68,8 +68,8 @@ class Commands {
         return this.onstar.getAccountVehicles();
     }
 
-    async startVehicle() {
-        return this.onstar.start();
+    async startVehicle(options = {}) {
+        return this.onstar.start(options);
     }
 
     async cancelStartVehicle() {
